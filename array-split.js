@@ -10,5 +10,5 @@ console.log(remove);
 console.log(num);
 
 //join
-const modify = num.join(':::')
+const modify = num.join(':::');
 console.log(modify);
