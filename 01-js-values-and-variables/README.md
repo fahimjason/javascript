@@ -242,7 +242,7 @@ let index = yell.indexOf("!");
 **String template literals**
 
 > Template literals are strings that allow embedded expressions, which will be evaluated and then turned into a resulting string.
-> <br> > `WE USE BACK-TICKS NOT SINGLE QUOTES` > <br> > \`I am a template literal\` > <br> \* The back-tick key is usually above the tab key
+> <br> `WE USE BACK-TICKS NOT SINGLE QUOTES` <br> \`I am a template literal\` <br> \* The back-tick key is usually above the tab key
 
 ```js
 ` I counted ${4 + 3}`; // I counted 7;
